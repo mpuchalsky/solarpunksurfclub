@@ -1,0 +1,61 @@
+p {
+
+  width: 100%;
+
+}
+
+
+
+td { 
+
+  text-align: center;
+
+  width: 33%;
+
+}
+
+
+
+img {
+
+  width: 100%;
+
+}
+
+
+
+.container {
+
+  width: 100%;
+
+  margin: auto;
+
+}
+
+
+
+.def_container {
+
+  /* display: flex; */
+
+  /* flex-flow: row wrap; */
+
+  /* flex-direction: row; */
+
+  /* flex-wrap: wrap; */
+
+  /* justify-content: center; */
+
+}
+
+
+
+.def {
+
+  /* flex-grow: 1; */
+
+  /* flex: 1 1 auto; */
+
+  /* max-width: 30% */
+
+}
