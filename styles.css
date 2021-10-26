@@ -18,7 +18,7 @@ td {
 
 img {
 
-  width: 100%;
+  width: 25%;
 
 }
 
@@ -32,7 +32,10 @@ img {
 
 }
 
-
+.footer {
+  width: 100%;
+  
+}
 
 .def_container {
 
